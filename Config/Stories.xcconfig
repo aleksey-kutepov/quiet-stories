@@ -1,0 +1,4 @@
+// Shared, unsigned defaults. Personal signing overrides stay on your Mac.
+STORIES_BUNDLE_IDENTIFIER = org.example.stories
+DEVELOPMENT_TEAM =
+#include? "Local.xcconfig"

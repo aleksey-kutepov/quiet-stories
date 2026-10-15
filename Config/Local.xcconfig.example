@@ -1,0 +1,4 @@
+// Copy to Local.xcconfig (ignored by Git) and fill in your own values.
+// Find your Team ID in Xcode > Settings > Accounts or Signing & Capabilities.
+DEVELOPMENT_TEAM = YOUR_TEAM_ID
+STORIES_BUNDLE_IDENTIFIER = com.example.yourname.stories

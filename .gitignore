@@ -1,0 +1,24 @@
+.DS_Store
+.build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xcresult/
+*.xcarchive/
+*.dSYM/
+*.ipa
+artifacts/
+
+# Personal signing and local credentials
+Config/Local.xcconfig
+.env
+.env.*
+!.env.example
+*.p12
+*.p8
+*.pem
+*.key
+*.cer
+*.mobileprovision
+*.provisionprofile
+*.log
