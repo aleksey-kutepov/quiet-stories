@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title description">
+  <title id="title">Quiet Stories — Stay close. Skip the scroll.</title>
+  <desc id="description">An independent iPhone and iPad browser for Instagram stories and messages. Open source under MIT. The original app welcome screen appears on the right.</desc>
+  <defs>
+    <clipPath id="screen"><rect x="926" y="53" width="244" height="528.84" rx="25"/></clipPath>
+    <clipPath id="icon"><rect x="72" y="61" width="44" height="44" rx="11"/></clipPath>
+    <filter id="shadow" x="-30%" y="-20%" width="160%" height="150%"><feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#263c2d" flood-opacity="0.13"/></filter>
+  </defs>
+  <rect width="1280" height="640" fill="#f6f6f1"/>
+  <image href="app-icon.png" x="72" y="61" width="44" height="44" clip-path="url(#icon)"/>
+  <text x="132" y="95" fill="#293b30" font-family="Georgia, 'Times New Roman', serif" font-size="37" letter-spacing="-0.7">Quiet Stories</text>
+  <g fill="#293b30" font-family="Georgia, 'Times New Roman', serif" font-size="78" letter-spacing="-2.2">
+    <text x="68" y="238">Stay close.</text>
+    <text x="68" y="326">Skip the scroll.</text>
+  </g>
+  <g fill="#6c786d" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="27">
+    <text x="73" y="394">Stories and messages,</text>
+    <text x="73" y="433">without the feed.</text>
+  </g>
+  <rect x="72" y="513" width="176" height="35" rx="17.5" fill="#e7ebe1"/>
+  <text x="89" y="536" fill="#3e6049" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="500">Open source · MIT</text>
+  <text x="267" y="536" fill="#6c786d" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16">iPhone &amp; iPad</text>
+  <rect x="917" y="44" width="262" height="546.84" rx="34" fill="#f6f6f1" stroke="#d9ddd3" stroke-width="1.5" filter="url(#shadow)"/>
+  <image href="welcome.png" x="926" y="53" width="244" height="528.84" preserveAspectRatio="xMidYMid meet" clip-path="url(#screen)"/>
+</svg>
