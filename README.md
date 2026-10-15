@@ -2,6 +2,19 @@
 
 An independent iPhone/iPad browser for Instagram Stories and messages, built with SwiftUI and WKWebView. The Xcode project and scheme are named `Stories`. There are no third-party packages, account service, backend, analytics, scraping, or private Instagram API calls.
 
+## A look inside
+
+<table>
+  <tr>
+    <th align="center">A quieter welcome</th>
+    <th align="center">On-device preferences</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/images/welcome.png" width="280" alt="Quiet Stories welcome screen: Stay close. Skip the scroll. Stories and messages, without the feed." /></td>
+    <td align="center"><img src="docs/images/privacy-settings.png" width="280" alt="Privacy settings showing optional device unlock and the preference to remember Instagram login on this device." /></td>
+  </tr>
+</table>
+
 ## Build and run
 
 Development requires macOS, Xcode with an iOS 17 or newer SDK, and an installed iOS Simulator runtime for tests. Physical devices must run iOS 17 or newer. No package installation, Meta app registration, API key, or server is required.
